@@ -26,7 +26,7 @@ string s2 = s1.PadLeft(12);
 Console.WriteLine(s2);
 
 string s3 = "Hello C Sharp";
-string s4 = s3.Substring(2);
+string s4 = s3.Substring(2); //substring
 Console.WriteLine(s4);
 
 int day = 6;
